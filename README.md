@@ -26,11 +26,12 @@ The following hardware components were used in this project:
 
 The 3D model for the fascia is designed to fit perfectly in the Porsche 986. It accommodates the touch screen display and provides cutouts for the tactile buttons.
 
-![STL Preview](photos/Screenshot%202024-05-01%20at%208.51.13%20AM.png)
+![STL Preview](photos/Screenshot 2024-05-01 at 8.51.13 AM.png)
 
 ## Software
 
-The software for this project is forked from the excellent work of [Birkir Gudjonsson](https://github.com/birkir). Special thanks to Birkir for creating the foundation for this project.
+The software used in this project is forked from the excellent work of Birkir Gudjonsson. It is a React Native library that extends React Native applications to support both Apple CarPlay and Android Auto infotainment systems. The library provides imperative APIs for creating and managing templates in the car display, along with declarative React components for map screens. It aims to simplify the integration of React Native apps with car infotainment systems while adhering to the respective platform regulations.
+The software for this project is forked from the excellent work of [React Native Carplay by Birkir Gudjonsson](https://github.com/birkir/react-native-carplay). Special thanks to Birkir for creating the foundation for this project.
 
 ## Installation
 
