@@ -26,7 +26,7 @@ The following hardware components were used in this project:
 
 The 3D model for the fascia is designed to fit perfectly in the Porsche 986. It accommodates the touch screen display and provides cutouts for the tactile buttons.
 
-![STL Preview](photos/Screenshot 2024-05-01 at 8.51.13 AM.png)
+![STL Preview](photos/Fascia_preview.png)
 
 ## Software
 
